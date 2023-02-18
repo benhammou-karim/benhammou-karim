@@ -49,6 +49,7 @@
                 :zap: Algorand Blockchain Developer.
            </strong>
         </p>
+        <br>
     </div>
     <div align=center>
         <h1>🛠️ I have already worked with the following technologies</h1>
@@ -182,7 +183,6 @@
                 </a>
             </p>
         </details>
-        <br>
         <br>
     </div>
     <div align=center>
