@@ -43,8 +43,8 @@
         <br>
         <p>
             <strong>
-                I am a Full Stack Developer from Morocco.<br>
-                :telescope: I'm Software Engineering Student At Cadi Ayyad University Marrakech.<br>
+                :zap: I'm a Full Stack Developer from Morocco.<br>
+                :zap: I'm Software Engineering Student At Cadi Ayyad University Marrakech.<br>
                 :zap: In my free time, I read about developpement's technoligies.<br>
                 :zap: Algorand Blockchain Developer.
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
@@ -53,6 +53,7 @@
     </div>
     <div align=center>
         <h1>🛠️ I have already worked with the following technologies</h1>
+        <br>
         <details align="" open> 
             <summary><b>Languages</b></summary>
             <br/>
