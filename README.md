@@ -47,7 +47,6 @@
                 :zap: I'm Software Engineering Student At Cadi Ayyad University Marrakech.<br>
                 :zap: In my free time, I read about developpement's technoligies.<br>
                 :zap: Algorand Blockchain Developer.
-                <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
            </strong>
         </p>
     </div>
