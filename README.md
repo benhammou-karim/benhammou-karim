@@ -4,7 +4,7 @@
             <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
         </p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+I'M+BENHAMMOU+KARIM%F0%9F%91%8B;SOFTWARE+ENGINEERING+STUDENT+;FULL-STACK+DEVELOPER;ALGORAND+BLOCKCHAIN+DEVELOPER;" alt="Headline" />
-        <br>
+        <br><br>
         <a href="https://github.com/benhammou-karim?tab=views">
             <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=benhammou-karim&label=Views&color=1407F7&style=for-the-badge" />
         </a>
@@ -43,9 +43,9 @@
         <br>
         <p>
             <strong>
-                I am a Full Stack Developer from Morocco. \n
-                :telescope: I'm Software Engineering Student At Cadi Ayyad University Marrakech.\n
-                :zap: In my free time, I read about developpement's technoligies. \n
+                I am a Full Stack Developer from Morocco.<br>
+                :telescope: I'm Software Engineering Student At Cadi Ayyad University Marrakech.<br>
+                :zap: In my free time, I read about developpement's technoligies.<br>
                 :zap: Algorand Blockchain Developer.
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
            </strong>
